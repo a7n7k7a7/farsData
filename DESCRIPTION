@@ -3,6 +3,7 @@ Type: Package
 Title: What the Package Does (Title Case)
 Version: 0.1.0
 Author: Anna Skrzydło
+Maintainer: Anna Skrzydło
 Description: This R package is an assignment work for the 
     "Building R Packages" course on Coursera, as part of the Johns Hopkins 
     University "Mastering Software Development in R" specialization.

@@ -1,12 +1,13 @@
 Package: farsData
 Type: Package
-Title: What the Package Does (Title Case)
+Title: FARS Data Explorator
 Version: 0.1.0
-Author: Anna Skrzydło
-Maintainer: Anna Skrzydło
+Authors@R: person("Anna", "Skrzydło", email = "a7n7k7a7@gmail.com",
+                  role = c("aut", "cre"))
 Description: This R package is an assignment work for the 
     "Building R Packages" course on Coursera, as part of the Johns Hopkins 
     University "Mastering Software Development in R" specialization.
+Depends: R (>= 3.4.3)
 License: GNU
 Encoding: UTF-8
 LazyData: true

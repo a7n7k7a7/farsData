@@ -20,6 +20,8 @@ This helps in simple exploration of the data from the National Highway Traffic S
 ## Data source
 The data in this package come from the US National Highway Traffic Safety Administration's Fatality Analysis Reporting System, which is a nationwide census providing the American public yearly data regarding fatal injuries suffered in motor vehicle traffic crashes.
 
+The files should be named: 'accident_YEAR.csv.bz2', where YEAR is a a year number, for example for data for 2015: 'accident_2015.csv.bz2'.
+
 In order to load the data
 ```{r, eval = FALSE}
 fname <- make_filename(2013)

@@ -7,7 +7,7 @@ Authors@R: person("Anna", "Skrzydło", email = "a7n7k7a7@gmail.com",
 Description: This R package is an assignment work for the 
     "Building R Packages" course on Coursera, as part of the Johns Hopkins 
     University "Mastering Software Development in R" specialization.
-Depends: R (>= 3.4.3)
+Depends: R (>= 3.4.2)
 License: GNU
 Encoding: UTF-8
 LazyData: true

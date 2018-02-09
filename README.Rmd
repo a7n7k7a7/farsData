@@ -1,0 +1,27 @@
+---
+title: "README"
+author: "Anna Skrzydło"
+date: "09-02-2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## farsData package
+This is a package build as an assignment for a Coursera 'Building R Packages' course. , as part of the Johns Hopkins University "Mastering Software Development in R" specialization.
+
+### Installation
+In order to install the package
+```{r, eval = FALSE}
+devtools::install_github('a7n7k7a7/farsData', build_vingettes = TRUE)
+library(farsData)
+```
+### Vignette
+In order to check how to ude the package read the introduction vignette
+```{r, eval = FALSE}
+vignette('farsdata_details', package = 'farsData')
+```
+
+### Travis Badge

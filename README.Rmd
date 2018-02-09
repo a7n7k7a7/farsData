@@ -5,9 +5,6 @@ date: "09-02-2018"
 output: html_document
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 
 ## farsData package
 This is a package build as an assignment for a Coursera 'Building R Packages' course. , as part of the Johns Hopkins University "Mastering Software Development in R" specialization.

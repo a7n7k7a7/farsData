@@ -22,3 +22,4 @@ vignette('farsdata_details', package = 'farsData')
 ```
 
 ### Travis Badge
+[![Build Status](https://travis-ci.org/a7n7k7a7/farsData.svg?branch=master)](https://travis-ci.org/a7n7k7a7/farsData)

@@ -21,6 +21,8 @@ The function plots the data from a selected year and state on a map.
 The files should be named 'accident_year.csv.bz2' otherwise the function will return an error.
 }
 \examples{
+\dontrun{
 fars_map_state(1, 2013)
+}
 
 }

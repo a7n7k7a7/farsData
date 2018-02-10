@@ -12,8 +12,10 @@
 #' @note The files should be named 'accident_year.csv.bz2' otherwise the function will return an error.
 #'
 #' @examples
+#' \dontrun{
 #' my.data.lst <- fars_read_years(c(2013, 2014, 2015))
 #' my.data.lst <- fars_read_years(2015)
+#' }
 #' 
 #' @export
 fars_read_years <- function(years) {

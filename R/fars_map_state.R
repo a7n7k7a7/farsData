@@ -14,7 +14,9 @@
 #' @note The files should be named 'accident_year.csv.bz2' otherwise the function will return an error.
 #' 
 #' @examples
+#' \dontrun{
 #' fars_map_state(1, 2013)
+#' }
 #' 
 #' @export
 fars_map_state <- function(state.num, year) {

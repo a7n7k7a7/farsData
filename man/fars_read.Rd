@@ -19,6 +19,8 @@ The function fars_read() enables reading FARS files into R.
 The function will return an error if a file doesn't exist.
 }
 \examples{
+\dontrun{
 my.data <- fars_read('accident_2015.csv.bz2')
+}
 
 }

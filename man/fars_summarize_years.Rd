@@ -19,6 +19,8 @@ This function calculates the number of accidents per month in selected years.
 The files should be named 'accident_year.csv.bz2' otherwise the function will return an error.
 }
 \examples{
+\dontrun{
 fars_summarize_years(c(2013, 2014, 2015))
+}
 
 }

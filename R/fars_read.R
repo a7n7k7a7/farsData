@@ -12,7 +12,9 @@
 #' @note The function will return an error if a file doesn't exist.
 #' 
 #' @examples
+#' \dontrun{
 #' my.data <- fars_read('accident_2015.csv.bz2')
+#' }
 #' 
 #' @export
 fars_read <- function(filename) {

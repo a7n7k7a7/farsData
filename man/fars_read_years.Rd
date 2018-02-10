@@ -19,7 +19,9 @@ The function reads years and months from multiple FARS files.
 The files should be named 'accident_year.csv.bz2' otherwise the function will return an error.
 }
 \examples{
-my.data.lst <- fars_read_years(c(2013, 2014, 2015))
+\dontrun{
+#' my.data.lst <- fars_read_years(c(2013, 2014, 2015))
 my.data.lst <- fars_read_years(2015)
+}
 
 }

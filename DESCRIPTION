@@ -8,7 +8,7 @@ Description: This R package is an assignment work for the
     "Building R Packages" course on Coursera, as part of the Johns Hopkins 
     University "Mastering Software Development in R" specialization.
 Depends: R (>= 3.4.2)
-License: GNU
+License: GPL-3
 Encoding: UTF-8
 LazyData: true
 Imports:
@@ -24,3 +24,4 @@ Suggests:
     rmarkdown,
     testthat
 VignetteBuilder: knitr
+RoxygenNote: 6.0.1
